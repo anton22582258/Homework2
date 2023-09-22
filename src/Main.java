@@ -9,35 +9,35 @@ public class Main {
         var paper = 763789;
         System.out.println( paper );
         // Задача 2
-        var dog1 = dog + 4;
-        System.out.println( dog1 );
-        var cat1 = cat + 4;
-        System.out.println( cat1 );
-        var paper1 = paper + 4;
-        System.out.println( paper1 );
+        dog = dog + 4;
+        System.out.println( dog );
+        cat = cat + 4;
+        System.out.println( cat );
+        paper = paper + 4;
+        System.out.println( paper );
         // Задача 3
-        var dog2 = dog - 3.5;
-        System.out.println( dog2 );
-        var cat2 = cat - 1.6;
-        System.out.println( cat2 );
-        var paper2 = paper - 7639;
-        System.out.println( paper2 );
+        dog = dog - 3.5;
+        System.out.println( dog );
+        cat = cat - 1.6;
+        System.out.println( cat );
+        paper = paper - 7639;
+        System.out.println( paper );
         // Задача 4
         var friend = 19;
         System.out.println( friend );
-        var friend1 = 19 + 2;
-        System.out.println( friend1 );
-        var friend2 = friend1 / 7;
-        System.out.println( friend2 );
+        friend = 19 + 2;
+        System.out.println( friend );
+        friend = friend / 7;
+        System.out.println( friend );
         // Задача 5
         var frog = 3.5;
         System.out.println( frog );
-        var frog1 = frog * 10;
-        System.out.println( frog1 );
-        var frog2 = frog1 / 3.5;
-        System.out.println( frog2 );
-        var frog3 = frog2 + 4;
-        System.out.println( frog3 );
+        frog = frog * 10;
+        System.out.println( frog );
+        frog = frog / 3.5;
+        System.out.println( frog );
+        frog = frog + 4;
+        System.out.println( frog );
         // Задача 6
         var boxerOne = 78.2;
         var boxerTwo = 82.7;
